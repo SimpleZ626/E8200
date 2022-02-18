@@ -1,2 +1,1 @@
-hello world
-my git
+git的使用
